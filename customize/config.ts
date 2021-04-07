@@ -1,0 +1,23 @@
+export default {
+  tcUser: "splendour",
+  tcUserTest: "sunrisetravel",
+  defaultTitle: "Splendour Holidays",
+  description: "Providing our corporate customers with ease and comfort in meeting their travel requirements are the core believes of our Pegasus approach to clients' satisfaction. To specifically tailor our approach for you and your company, we conceptualize, plan and execute your travel needs in a highly professional manner to ensure consistency and reliability.",
+  companyName: "Splendour Holidays Management",
+  phone: "",
+  email: "",
+  operatingHrs: "",
+  address1: "",
+  address2: "",
+  currency: "SGD",
+  locale: "en-US",
+  domain: "https://www.resourcetravel.sg/",
+  local: "http://localhost:3030",
+  rollbarAccessToken: "",
+  googleAnalyticsTrackingId: "",
+  twitter: "",
+  facebook: "",
+  instagram: "",
+  whatsapp: "",
+  payNowUEN: ""
+}
